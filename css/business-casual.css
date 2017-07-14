@@ -20,7 +20,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Dekko', cursive;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -97,6 +97,10 @@ hr {
     border: #999999 solid 1px;
 }
 
+.img-responsive img-border img-full {
+    height: 500px;
+    width: 500px;
+}
 .img-left {
     float: none;
     margin: 0 auto 0;
