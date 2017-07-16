@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Kite One', sans-serif;
     background: url('../img/brick.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
