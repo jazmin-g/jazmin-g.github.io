@@ -195,3 +195,11 @@ footer p {
         clear: both;
     }
 }
+
+.nav-item:hover{
+    background-color: #868181;
+}
+
+.nav-item>a:hover{
+    color: white!important;
+}
