@@ -224,3 +224,10 @@ button:hover {
 	background-color: #FBF3DB;
 	border:1px solid #745b2f;
 }
+/*.nav-item:hover{
+    background-color: #868181;
+}*/
+
+.nav-item>a:hover{
+    color: white!important;
+}
